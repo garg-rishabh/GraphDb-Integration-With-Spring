@@ -1,0 +1,6 @@
+Application.java has the configuration file for Neo4J
+Models is our POJO
+Repository is similar to the DAO module. It has all the DB functionalities
+
+
+Please refer to http://docs.spring.io/spring-data/neo4j/docs/current/reference/html/ for detailed documentation
